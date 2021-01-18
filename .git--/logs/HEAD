@@ -1,0 +1,28 @@
+0000000000000000000000000000000000000000 a90efd1912159322668433436fbac43af2d32e36 testname <testemail> 1610509860 +0800	commit (initial): code-1-commit
+a90efd1912159322668433436fbac43af2d32e36 c082763e6df088d592cfa253f949d45e93c0cbbe testname <testemail> 1610510292 +0800	commit: code-1-commit
+c082763e6df088d592cfa253f949d45e93c0cbbe c082763e6df088d592cfa253f949d45e93c0cbbe testname <testemail> 1610510500 +0800	checkout: moving from master to dev
+c082763e6df088d592cfa253f949d45e93c0cbbe 46aabcef72e675fc6619568c268c41fc78aeb1e4 testname <testemail> 1610520465 +0800	commit: commit-2
+46aabcef72e675fc6619568c268c41fc78aeb1e4 46aabcef72e675fc6619568c268c41fc78aeb1e4 testname <testemail> 1610520526 +0800	checkout: moving from dev to dev
+46aabcef72e675fc6619568c268c41fc78aeb1e4 46aabcef72e675fc6619568c268c41fc78aeb1e4 testname <testemail> 1610520531 +0800	checkout: moving from dev to dev
+46aabcef72e675fc6619568c268c41fc78aeb1e4 c082763e6df088d592cfa253f949d45e93c0cbbe testname <testemail> 1610520565 +0800	checkout: moving from dev to master
+c082763e6df088d592cfa253f949d45e93c0cbbe b522f1f1dd0f3c54a0483a1bb6165db4cf6d1cb6 testname <testemail> 1610528291 +0800	commit: commit-3
+b522f1f1dd0f3c54a0483a1bb6165db4cf6d1cb6 a289671eaf6602259997fe6c5d50b11ff925967f testname <testemail> 1610528970 +0800	commit: commit-1
+a289671eaf6602259997fe6c5d50b11ff925967f 46aabcef72e675fc6619568c268c41fc78aeb1e4 testname <testemail> 1610529052 +0800	checkout: moving from master to dev
+46aabcef72e675fc6619568c268c41fc78aeb1e4 e619b1b25f854b67a3f488f429b6ce91ad8cd4fe testname <testemail> 1610533229 +0800	commit: 1
+e619b1b25f854b67a3f488f429b6ce91ad8cd4fe e619b1b25f854b67a3f488f429b6ce91ad8cd4fe testname <testemail> 1610533309 +0800	checkout: moving from dev to dev-1
+e619b1b25f854b67a3f488f429b6ce91ad8cd4fe dbd15b53c7828a30843d3f65d1c86e042f212c7f testname <testemail> 1610537762 +0800	commit: 2
+dbd15b53c7828a30843d3f65d1c86e042f212c7f dbd15b53c7828a30843d3f65d1c86e042f212c7f testname <testemail> 1610541979 +0800	checkout: moving from dev-1 to test
+dbd15b53c7828a30843d3f65d1c86e042f212c7f e619b1b25f854b67a3f488f429b6ce91ad8cd4fe testname <testemail> 1610591855 +0800	checkout: moving from test to dev
+e619b1b25f854b67a3f488f429b6ce91ad8cd4fe 22d7739e4dddec88a636ab0facd22475c6b5836a testname <testemail> 1610598217 +0800	pull --tags origin dev: Fast-forward
+22d7739e4dddec88a636ab0facd22475c6b5836a 0e22a6ba4739fb57019d903e471e2fac54b19e85 testname <testemail> 1610598841 +0800	commit: commit
+0e22a6ba4739fb57019d903e471e2fac54b19e85 2d449b9815cad7a551a3e31b2b747fe5a6c23214 testname <testemail> 1610599650 +0800	pull --tags origin dev: Fast-forward
+2d449b9815cad7a551a3e31b2b747fe5a6c23214 4fb5538cf5a7bd051b59f5e0c65bcc4b2c1992b2 testname <testemail> 1610603433 +0800	commit: 2
+4fb5538cf5a7bd051b59f5e0c65bcc4b2c1992b2 0000000000000000000000000000000000000000 testname <testemail> 1610603746 +0800	Branch: renamed refs/heads/dev to refs/heads/dev-2
+0000000000000000000000000000000000000000 4fb5538cf5a7bd051b59f5e0c65bcc4b2c1992b2 testname <testemail> 1610603746 +0800	Branch: renamed refs/heads/dev to refs/heads/dev-2
+4fb5538cf5a7bd051b59f5e0c65bcc4b2c1992b2 b0fb218dd2e57d86e62780cf6da8caf41dedf61f testname <testemail> 1610608233 +0800	commit: webide-commit1
+b0fb218dd2e57d86e62780cf6da8caf41dedf61f dbd15b53c7828a30843d3f65d1c86e042f212c7f testname <testemail> 1610609729 +0800	checkout: moving from dev-2 to test
+dbd15b53c7828a30843d3f65d1c86e042f212c7f dbd15b53c7828a30843d3f65d1c86e042f212c7f testname <testemail> 1610609775 +0800	checkout: moving from test to dev-1
+dbd15b53c7828a30843d3f65d1c86e042f212c7f 8e2d7a3d5acc99f045e1209e39ad98dcdc221c42 testname <testemail> 1610613003 +0800	pull --tags baiduxly dev-2: Merge made by the 'recursive' strategy.
+8e2d7a3d5acc99f045e1209e39ad98dcdc221c42 26728cd1c160fe62e73831a8e7d2c4ca3e48aef4 testname <testemail> 1610679146 +0800	commit: webide-commit
+26728cd1c160fe62e73831a8e7d2c4ca3e48aef4 0000000000000000000000000000000000000000 testname <testemail> 1610693945 +0800	Branch: renamed refs/heads/dev-1 to refs/heads/dev-3
+0000000000000000000000000000000000000000 26728cd1c160fe62e73831a8e7d2c4ca3e48aef4 testname <testemail> 1610693945 +0800	Branch: renamed refs/heads/dev-1 to refs/heads/dev-3

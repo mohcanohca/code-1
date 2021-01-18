@@ -1,0 +1,33 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/mohcanohca/code-2.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "dev-2"]
+	remote = xly
+	merge = refs/heads/dev-2
+[branch "dev-3"]
+	remote = baiduxly
+	merge = refs/heads/dev-3
+[branch "test"]
+	remote = origin
+	merge = refs/heads/test
+[remote "origin2"]
+	url = https://github.com/mohcanohca/blog.git
+	fetch = +refs/heads/*:refs/remotes/origin2/*
+[remote "bdcloud"]
+	url = https://smartapp_wendytest02_gu0b1_smartapp-8452rdc6n8n@xly.bce.baidu.com/code/smartapp-8452rdc6n8n/yu-test01/test-create-repo
+	fetch = +refs/heads/*:refs/remotes/bdcloud/*
+[remote "xly"]
+	url = https://smartapp_wendytest02_gu0b1_smartapp-8452rdc6n8n@xly.bce.baidu.com/code/smartapp-8452rdc6n8n/yu-test01/test-create-repo
+	fetch = +refs/heads/*:refs/remotes/xly/*
+[remote "baiduxly"]
+	url = https://smartapp_wendytest02_gu0b1_smartapp-8452rdc6n8n@xly.bce.baidu.com/code/smartapp-8452rdc6n8n/yu-test01/test-create-repo
+	fetch = +refs/heads/*:refs/remotes/baiduxly/*
+[credential]
+	helper = store --file ~/.my-credentials

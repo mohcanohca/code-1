@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 46aabcef72e675fc6619568c268c41fc78aeb1e4 testname <testemail> 1610529718 +0800	fetch origin: storing head
+46aabcef72e675fc6619568c268c41fc78aeb1e4 e619b1b25f854b67a3f488f429b6ce91ad8cd4fe testname <testemail> 1610533240 +0800	update by push
+e619b1b25f854b67a3f488f429b6ce91ad8cd4fe 22d7739e4dddec88a636ab0facd22475c6b5836a testname <testemail> 1610598217 +0800	pull --tags origin dev: fast-forward
+22d7739e4dddec88a636ab0facd22475c6b5836a 0e22a6ba4739fb57019d903e471e2fac54b19e85 testname <testemail> 1610598883 +0800	update by push
+0e22a6ba4739fb57019d903e471e2fac54b19e85 2d449b9815cad7a551a3e31b2b747fe5a6c23214 testname <testemail> 1610599650 +0800	pull --tags origin dev: fast-forward
+2d449b9815cad7a551a3e31b2b747fe5a6c23214 4fb5538cf5a7bd051b59f5e0c65bcc4b2c1992b2 testname <testemail> 1610603675 +0800	update by push
